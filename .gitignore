@@ -1,3 +1,10 @@
+# ignore map, miou, datasets
+map_out/
+miou_out/
+VOCdevkit/
+datasets/
+Medical_Datasets/
+yolov3-attention-tf2/.idea
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
